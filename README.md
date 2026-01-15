@@ -6,4 +6,5 @@
 ## Informacion de la materia 
 * **Materia:** [Dise;o de app web]
 * **Profesor:** [Fernando Sa;udo B]
-* **Markdown:** [Son los signos que usamos en el codigo para generar dise;o en el git hub]
+## Tarea 1 
+* **Markdown:** [Son los signos que usamos en el codigo para generar diseño del readme en el git hub, lo cual sirve para que se vea mas bonito]
